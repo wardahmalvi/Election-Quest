@@ -21,3 +21,16 @@ AGS uses Java and C++ as a scripting language.
 
 
 The music in the game was used with due credit given.
+
+
+Game blurb: 
+
+
+Welcome! 
+
+You are playing as Roberto,  an intern for the 3rd Presidential Debate that is taking place at Michigan State University on October 19th, 1992. 
+
+There are only a few hours left until the debate starts and most of the setup is done.  
+
+
+Hopefully, everything goes smoothly...
