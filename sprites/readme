@@ -1,1 +1,3 @@
-This folder contains all of the sprite sheets and the necessary inventory items of the game
+This folder contains all of the sprite sheets and the necessary inventory items of the game.
+The base of any game in AGS relies on the creation of sprites.
+which is why the sprites folder is the most extensive.
