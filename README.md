@@ -2,6 +2,9 @@
 My capstone project git for CRCP5301 
 Each folder contains a specific element of the game. 
 The code is hosted on the AGS editor itself but is uploaded to Itch.io and can be downloaded there.
+
+https://historypersona.itch.io/elections-r-us
+
 A limitation of AGS is that the games made on it are for Windows users.
 
 
