@@ -17,7 +17,7 @@ A limitation of AGS is that the games made on it are for Windows users.
 The game art was created using Pixilart.com and so the pixil files can be edited using the website. 
 
 
-AGS uses Java and C++ as a scripting language.
+AGS uses Java and C# as a scripting language.
 
 
 The music in the game was used with due credit given.
