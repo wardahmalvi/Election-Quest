@@ -1,4 +1,4 @@
-# Election-Quest
+# Elections R U.S.
 
 
 My capstone project git for CRCP5301 
