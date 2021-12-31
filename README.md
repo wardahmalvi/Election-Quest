@@ -22,6 +22,8 @@ AGS uses Java and C# as a scripting language.
 
 The music in the game was used with due credit given.
 
+gameplay demo: https://www.youtube.com/watch?v=rvXN4o6oiyg 
+
 
 # Artist Bio
 Wardah Alvi is an artist who is fascinated by interdisciplinary outcomes. 
